@@ -1,0 +1,36 @@
+.forconal {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+.alertofcon {
+    padding: 20px;
+    background-color: #73ff01;
+    color: black;
+    width: 50vw;
+    height: 20px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+
+
+}
+
+.closebtnfocon {
+    margin-left: 45px;
+    color: blueviolet;
+    font-weight: bold;
+    float: right;
+    font-size: 22px;
+    line-height: 20px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.closebtnfocon:hover {
+    color: black;
+}
